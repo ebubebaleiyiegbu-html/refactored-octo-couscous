@@ -1,0 +1,41 @@
+     body {
+      background-color: #5c0833;
+    }
+    .test-card {
+      border-radius: 10px;
+      background: #fff;
+      padding: 2rem;
+      height: 100%;
+    }
+    .test-card img {
+      width: 50px;
+      height: 50px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin-right: 0.75rem;
+    }
+    .highlight-box {
+      display: inline-block;
+      padding: 0.75rem 1rem;
+      border-radius: 8px;
+      margin-top: 1rem;
+      font-weight: 600;
+      font-size: 0.9rem;
+    }
+    .highlight-pink {
+      background-color: #fde7e7;
+      color: #5c0833;
+    }
+    .highlight-yellow {
+      background-color: #fff0d9;
+      color: #5c0833;
+    }
+    .highlight-light {
+      background-color: #f3e9ec;
+      color: #5c0833;
+    }
+    .test-header {
+      color: white;
+      text-align: center;
+      margin-bottom: 3rem;
+    }
